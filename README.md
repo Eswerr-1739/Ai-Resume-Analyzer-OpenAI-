@@ -25,8 +25,7 @@ This project is **open-source**, free, and suitable for showcasing AI and NLP sk
 
 ## Demo
 
-![Demo Screenshot](demo_screenshot.png)  
-*(Replace with your actual app screenshot)*
+![Demo Screenshot](<img width="1879" height="895" alt="image" src="https://github.com/user-attachments/assets/7e1a6732-5c24-467a-a6f8-c6f1bbdc6cd0" />)
 
 ---
 
