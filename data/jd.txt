@@ -1,0 +1,26 @@
+About the job  
+Your core responsibilities can include (but are not limited to)  
+
+Maintain and extend our existing ETL infrastructure,  
+Design schemas, ETL processes to pull data from various system and platforms into BigQuery  
+Extend or exiting data pipelines automation framework  
+Assist in maintaining and extending our existing Data Visualisation systems (built on Google Data  Studio)  
+Partner with management and operational teams to deep dive on core issues and use our data to find answers.  
+Building and maintaining data monitoring and analysis systems  
+Maintain and monitor key systems metrics via dashboards  
+Assist with other efforts as required  
+
+To be successful  
+You should have:  
+
+Good language and reasoning skills, in particular in English.  
+Experience in writing production Python code  
+SQL (e.g. MySQL, PostgreSQL, SQLServer)  
+Linux and Linux shell scripting
+Experience with the following will be helpful but is not essential:  
+Google cloud services (BigQuery, Pub/Sub, Cloud DataFlow)  
+Developing ML/AI applications  
+Git (or any other version control system)  
+DevOps (particular cloud deployments) and System Administration  
+Java, Rust development (particularly microservices)  
+Terraform

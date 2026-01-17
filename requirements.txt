@@ -1,0 +1,7 @@
+streamlit
+openai>=1.0.0
+spacy
+fuzzywuzzy
+python-docx
+pdfplumber
+pandas
